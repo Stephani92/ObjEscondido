@@ -1,0 +1,20 @@
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.csprojAssemblyReference.cache
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.Form1.resources
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.Properties.Resources.resources
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.csproj.GenerateResource.cache
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.csproj.CoreCompileInputs.cache
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\bin\Debug\OndeEstouNaCasa.exe.config
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\bin\Debug\OndeEstouNaCasa.exe
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\bin\Debug\OndeEstouNaCasa.pdb
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.exe
+C:\Users\Stephani\source\repos\OndeEstouNaCasa\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.pdb
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\bin\Debug\OndeEstouNaCasa.exe.config
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\bin\Debug\OndeEstouNaCasa.exe
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\bin\Debug\OndeEstouNaCasa.pdb
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.csprojAssemblyReference.cache
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.Form1.resources
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.Properties.Resources.resources
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.csproj.GenerateResource.cache
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.csproj.CoreCompileInputs.cache
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.exe
+C:\Users\Stephani\source\repos\Nova pasta\OndeEstouNaCasa\obj\Debug\OndeEstouNaCasa.pdb
